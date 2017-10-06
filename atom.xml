@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>huanhuan&#39;s blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://ithuanhuan.top/"/>
+  <updated>2017-10-06T04:56:21.140Z</updated>
+  <id>http://ithuanhuan.top/</id>
+  
+  <author>
+    <name>huanhuan</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>my-first-blog</title>
+    <link href="http://ithuanhuan.top/2017/10/06/my-first-blog/"/>
+    <id>http://ithuanhuan.top/2017/10/06/my-first-blog/</id>
+    <published>2017-10-06T04:55:02.000Z</published>
+    <updated>2017-10-06T04:56:21.140Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="my-first-blog"><a href="#my-first-blog" class="headerlink" title="my first blog"></a>my first blog</h1><p>This is a test.</p><figure class="highlight abnf"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">System.out.println(<span class="string">"haha"</span>)<span class="comment">;</span></div></pre></td></tr></table></figure><blockquote><p>sdfasf</p></blockquote><p><em>*fdsalfkasjdf</em> salkfjsaflasj</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;my-first-blog&quot;&gt;&lt;a href=&quot;#my-first-blog&quot; class=&quot;headerlink&quot; title=&quot;my first blog&quot;&gt;&lt;/a&gt;my first blog&lt;/h1&gt;&lt;p&gt;This is a test.&lt;/p&gt;
+&lt;figur
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
